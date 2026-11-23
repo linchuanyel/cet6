@@ -178,3 +178,67 @@ adj. 艺术的
 👉analyst n. 分析者
 👉analytical adj. 分析的
 
+**automation** /ˌɔːtəˈmeɪʃn/n. 自动化
+搭配：trade automation 贸易自动化
+派生：automate v. 使… 自动化；automatic adj. 自动的，无意识的
+辨析：mechanic → mechanization 机械化
+
+**adolescent** /ˌædəˈlesnt/n. 青少年 adj. 青春期的
+搭配：adolescent boys/girls 青春期男孩 / 女孩
+派生：adolescence n. 青春期
+辨析：teenager n.(13-19 岁的) 青少年；youngster n. 年轻人
+
+**absence** /ˈæbsəns/n.①缺席；②缺乏，不存在
+搭配：absence of money 缺钱
+派生：absent adj. 缺乏的，缺席的
+近义词：non-existence n. 不存在；shortage n. 短缺
+
+**agricultural** /ˌæɡrɪˈkʌltʃərəl/adj. 农业的
+搭配：agricultural policy 政策 /production 生产 /development 发展
+派生：agriculture n. 农业
+
+**broad** /brɔːd/adj.①宽阔的，广阔的；②…… 宽（度量距离）；③广泛的，普遍的
+搭配：broad agreement 同意 /support 支持
+派生：broaden v. 拓宽；broaden horizon 拓宽视野
+近义词：wide adj. 宽的；vast adj. 辽阔的
+
+**battery** /ˈbætəri/n.①电池；②一系列，一批；③殴打（法律）
+搭配：a battery of sth. 一系列；automobile battery 汽车电池
+
+**bulb** /bʌlb/n. 电灯泡
+搭配：incandescent bulb 白炽灯
+
+**beneficial** /ˌbenɪˈfɪʃl/adj. 有利的，有帮助的
+搭配：be beneficial to 对… 有利
+派生：benefit v./n. 好处；beneficiary n. 受益者
+近义词：favourable adj. 有利的（be favourable to）；helpful adj. 有帮助的；advantageous adj. 有利的
+
+**boom** /buːm/v.①迅速发展，激增；②轰鸣，低沉有力地说话
+n.①激增，繁荣；②深沉的响声
+搭配：economic boom 经济繁荣；sales boom 销售额激增
+派生：booming adj. 暴涨的
+近义词：thrive v. 繁荣；flourish v. 繁荣；prosper v. 繁荣
+
+**battle** /ˈbætl/n.①战斗，战争；②斗争，奋斗 v. 斗争，奋斗
+搭配：decisive battle 决定性战役；battle with sb. for sth. 和… 争论…；do battle with sb. (over sth.)；half the battle（完成某事的）关键
+
+**breed** /briːd/v.①交配繁殖；②饲养，培育（动植物）；③孕育，导致；④以… 方式教育，使养成
+n.①品种（人工培育猫狗牲畜）；②（人的）类型
+搭配：species breed 物种；breed animal 人工培育动物
+派生：breeder n. 饲养员；breeding n. 饲养；繁殖
+近义词：reproduce v. 生育；raise v. 养育
+
+**bound** /baʊnd/n. 跳跃，蹦跳 v.①跳跃着跑；②形成… 的边界（界限）
+adj.①一定会；很可能会；②受约束，有义务（做某事）；③正前往某地
+搭配：be bound to 一定…；be bound up in 忙于某事；bound up with sth. 和… 密切相关
+派生：boundary n. 边界；boundless adj. 无止境的
+近义词：leap v. 跳跃；bounce v. 弹跳；certain adj. 肯定的
+
+**climate** /ˈklaɪmət/n.①气候，气候区；②思潮，风气
+搭配：global climate change 全球气候变化；a mild climate 温和的气候
+例句：We should create a climate where everyone loves to study. 我们应该营造人人热爱学习的氛围。
+
+
+0
+
+
