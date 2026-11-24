@@ -239,6 +239,42 @@ adj.①一定会；很可能会；②受约束，有义务（做某事）；③�
 例句：We should create a climate where everyone loves to study. 我们应该营造人人热爱学习的氛围。
 
 
-0
+39. **crop** /krɒp/ n. ①庄稼，作物；②产量
+搭配：cultivate crop 培育作物
+辨析：yield n.产量；produce n.农产品
+
+40. **cultural** /ˈkʌltʃərəl/ adj. 与文化有关的，文化的
+搭配：cultural barrier 文化障碍；cultural heritage 文化遗产
+派生：culture n.文化；cultured adj.有文化修养的
+
+41. **currently** /ˈkʌrəntli/ adv. 当前；目前；现时；时下
+派生：current adj.当前的；currency n.货币，流行
+近义词：presently adv.此刻；at present 现在
+
+42. **category** /ˈkætəɡəri/ n.（人或事物的）类别
+派生：categorical adj.明确的；categorize v.分类
+近义词：type n.类型；kind n.同类
+
+43. **comprehensive** /ˌkɒmprɪˈhensɪv/ adj. ①全部的，所有的；②综合性的
+搭配：a comprehensive study 全面的研究
+派生：comprehensively adv.完全地；comprehension n.理解力
+近义词：all-inclusive adj.包括全部的；complete adj.完全的
+
+44. **craftsmanship** /ˈkrɑːftsmənʃɪp/ n. ①技艺、手艺；②精工细作
+派生：craft n.手艺、工艺；craftsman n.工匠
+近义词：workmanship n.手艺，技艺
+
+45. **cave** /keɪv/ v. ①塌落、塌陷；②让步、屈服 n. 山洞、洞穴
+搭配：cave in (on sb./sth.) 塌落、塌陷；cave in (to sth.) 让步、屈服
+例句：The rocks on the mountain caved in on her sister.山上的石头塌落在她妹妹身上。
+例句：The soldier caved in to others' courage.这名士兵向别人的勇气屈服。
+
+46. **curriculum** /kəˈrɪkjələm/ n.（学校等的）全部课程
+搭配：the school curriculum 学校课程
+派生：curricular adj.课程的
+
+47. **chip** /tʃɪp/ v. ①被损坏、打破；②切下、削下；n. ①缺口、缺损处；②碎屑，碎片；③油炸土豆条
+搭配：chip card 芯片卡；potato chips 土豆条
+近义词：fragment n.片段，碎片；piece n.碎片
 
 
