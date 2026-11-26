@@ -277,4 +277,168 @@ adj.①一定会；很可能会；②受约束，有义务（做某事）；③�
 搭配：chip card 芯片卡；potato chips 土豆条
 近义词：fragment n.片段，碎片；piece n.碎片
 
+48. **capable** /ˈkeɪpəb (ə) l/adj. ①有能力的，有才能的 ②能力强的，足以胜任的
+搭配：be capable of doing sth. 有能力做某事
+反义：incapable adj. 没有能力的
+派生：capability n. 能力
+近义：competent adj. 足以胜任的
+49. **closely** /ˈkləʊsli/adv. ①紧密地 ②仔细地
+例句：Our two companies cooperate closely. 我们两家公司合作密切。
+派生：close adj. 亲密的；close relationship 关系亲密
+近义：carefully adv. 仔细地
+50. **congress** /ˈkɒŋɡres/n. ①代表大会 ②国会，议会
+搭配：US Congress 美国国会；address congress 在国会上发表演讲
+拓展：address v. 发表演讲；n. 地址
+51. **contrast** /ˈkɒntrɑːst/v. 对比，对照  n. ①明显的差异，对比；②明显不同的人（或事物）
+搭配：sharp contrast 鲜明的对比；an obvious contrast between … and … … 和… 的明显差异
+例句：The skin color of those two persons forms an obvious contrast.
+派生：contrastive adj. 对比的；a contrastive study 一个对比研究
+近义：difference 差异；distinction 差异
+52. **currency** /ˈkʌrənsi/n. ①通货，货币 ②通用，流行
+派生：current adj. 通用的，流行的
+53. **capitalism** /ˈkæpɪtəlɪz (ə) m/n. 资本主义
+拓展：socialism n. 社会主义；state-sponsored capitalism 国家资本主义
+派生：capital n. 财富、财产；capitalist n. 资本家
+54. **conference** /ˈkɒnf (ə) rəns/n. ①（通常持续几天的大型正式）会议，研讨会；②体育协会（或联合会）
+搭配：international conference 国际会议；video conference 视频会议
+近义：congress n. 国会；meeting n. 会议；convention n.（政党、某职业等）代表大会
+55. **cooperation** /kəʊˌɒpəˈreɪʃ(ə) n/n. ①合作，协作 ②协助，配合
+搭配：international cooperation 国际合作；long-term cooperation 长期合作
+派生：cooperate v. 合作；cooperative adj. 合作的
+近义拓展：collaboration n. 合作 → collaborate v. 合作
+
+1. **calculate** /ˈkælkjuleɪt/v. ①计算，核算；②预测，推测
+calculate on sth. 期待……
+Eg. We all calculate on face-to-face communication.**calculated** (adj.) 精心策划的
+【近】**estimate** v. 预估；n. estimation
+
+3. **chronic** /ˈkrɒnɪk/adj. ①长期的，慢性的 ②长期患病的
+chronic disease 慢性病
+chronic fatigue 慢性疲劳
+【adv.】**chronically** 长期地、慢性地
+
+5. **cigarette** /ˌsɪɡəˈret/n. 香烟
+light cigarette 清淡型的
+a packet /pack of cigarette 一包香烟**cigar** n. 雪茄
+
+7. **consist** /kənˈsɪst/v. 由…… 组成
+consist of 由… 组成
+consist in 存在于
+His achievements consist in his hard work.**consistent** adj. 一致的，连续的**consistency** n. 统一性，连贯性
+① **compose** v. 组成，构成（≥2 人或物）
+Ten men compose the committee.
+② **comprise** v. 包括（独立部分）
+...is comprised mainly of Italian and French stu
+   
+9. **curb** /kɜːb/v. 控制，抑制  n. 控制
+curb inflation 抑制通货膨胀
+a curb on sth. 对某物的控制
+【近】**restrain** v. 抑制；**control** v. 控制
+
+11. **declare** /dɪˈkleə(r)/v. ①表明，断言 ②公布，宣布 ③申报
+declare for /against sb./sth. 支持 / 反对某人 / 某物
+declare war 宣战
+declare independence 宣布独立
+n. **declaration** 公告，声明
+【近】① **announce** v. 宣布 → announcement (n.)
+② **state** v. 陈述 → statement (n.)
+③ **assert** v. 断言 → assertion (n.)
+
+13. **disaster** /dɪˈzɑːstə(r)/n. ①灾难，不幸；②彻底失败的人（或事）
+disaster area 灾区
+natural disaster 自然灾害
+Earthquake brought disastrous effect to citizens.**disastrous** adj. 灾难性的
+【近】**catastrophe** n. 灾难；**tragedy** n. 悲剧
+
+15. **diversity** /daɪˈvɜːsəti/n. ①差异；②多样化
+biology n. 生物学
+biological diversity 生物多样性**diverse** adj. 不同的**diversify** v. 使… 多样化
+【近】**variety** n. 不同种类
+
+17. **deposit** /dɪˈpɒzɪt/v. ①放下、放置；②存储，寄放；③付定金，付押金
+n. ①定金，押金；②存款；③（地下自然形成的）沉积物
+pay a deposit 付押金
+deposit account 定期存款账户
+【近】**down payment** （分期付款）首期款，定金
+
+19. **drought** /draʊt/n. 久旱、旱灾
+adj. **dry** 干燥的**drought-tolerant** 耐旱的
+
+1. **deck** /dek/v. 装饰、布置 n.①甲板 ②（船或公共汽车的）一层
+upper deck 上层甲板
+double-deck bus 双层公共汽车
+2. **deficit** /ˈdefəsɪt/n.①赤字、逆差、亏损；②不足额，缺少，缺款额
+budget deficit 预算赤字
+trade deficit 贸易逆差
+近：deficiency n. 缺乏，不足；shortage n. 不足，缺乏
+3. **destroy** /dɪˈstrɔɪ/v. 摧毁，毁坏
+destroy the balance 破坏平衡
+n. destruction 破坏
+adj. destructive 破坏的
+近：ruin v. 毁坏；devastate v. 毁灭
+补充：ruin 侧重长期损毁、难以复原；devastate sb. 使某人崩溃
+4. **dump** /dʌmp/v.①丢弃，抛弃；②（常向国外）倾销，抛售 n. 垃圾场
+garbage dump n. 垃圾场
+dump sth. 丢弃某物
+5. **diminish** /dɪˈmɪnɪʃ/v.①减少；（使）减弱，缩减；降低；②贬低，贬损，轻视
+Rainy days diminish the chance of going out. 减少外出的可能性
+近：decrease v. 减少，降低（数量上减少）；decline v. 下降、减少（数目、价格、比例、能力）；reduce v. 减少（主动性强）
+6. **dominate** /ˈdɒmɪneɪt/v.①支配，控制；②在… 中具有最重要（或明显）的特色；③在… 中最显眼的位置；俯视；高耸于；④（在比赛中）占有优势，占据主动，控制战局
+dominate industry 主导产业
+domination n. 支配，控制
+近：govern v. 统治；government n. 政府；control v. 控制
+7. **dramatically** /drəˈmætɪkli/adv.①戏剧地，引人注目地；②显著地
+dramatically reduce 大幅度减少
+dramatic adj. 戏剧性的，突然的
+近：remarkably adv. 显著地，非常地
+
+1. **equally** /ˈiːkwəli/adv. ①平等地，同样地 ②平均地 ③（引出同样重要内容）同样，此外，也；搭配：equally valuable /right/wrong；派生：equal adj. 平等的；equality n. 平等；近义词：fairly
+2. **endanger** /ɪnˈdeɪndʒə(r)/v. 危害；使遭危险；危及；搭配：endanger security /freedom；派生：danger n. 危险；dangerous adj. 危险的；近义词：imperil、jeopardize、hazard
+3. **election** /ɪˈlekʃ(ə) n/n. ①选举（尤指从政）②当选；搭配：election campaign 竞选运动；派生：elective adj. 选举的；近义词：vote；搭配：vote for sb. 给… 投票
+4. **enrol** /ɪnˈrəʊl/v. 登记；注册；（使）加入（也写作 enroll）；搭配：enroll on an executive programme 入读一门管理课程；派生：enrolment n. 入学、注册；近义词：register、sign up
+5. **element** /ˈelɪmənt/n. ①要素，元素；②少量，有些；③一群，一伙；搭配：fundamental element 基本元素；派生：elementary adj. 初级的、基本的；近义词：component
+6. **evaluation** /ɪˌvæljuˈeɪʃ(ə) n/n. 评价，【数】赋值；搭配：evaluation of … 对… 的评估；派生：evaluate v. 估计、评价；近义词：assessment
+7. **expression** /ɪkˈspreʃ(ə) n/n. ①表达；②表情，神色；③词语，措辞；搭配：an expression of love 爱的表达；an expression of incompetence 无能的表现；派生：express v. 表达；expressive adj. 有表现力的
+8. **enormous** /ɪˈnɔː(r) məs/adj. 巨大的，庞大的，极大的；搭配：enormous interest 巨大的兴趣；enormous impact 巨大的影响；派生：enormously adv. 非常，极其；近义词：huge、vast、extensive
+9. **export** /ˈekspɔː(r) t/v. ①出口；②传播，输出（思想或活动）；③输出，移出，调出；搭配：an export license 出口许可证；export sth. to sb. 将… 输出给某人
+10. **equality** /ɪˈkwɒləti/n. 平等，相等，均等；搭配：gender /social equality；反义词：inequality；派生：equal adj. 平等的；近义词：fairness、impartiality；equability n. 公正
+
+11. 1. **exhibit** /ɪɡˈzɪbɪt/
+n. ①展览、展出；②表现
+v. ①陈列，展出；②（法庭上出示的）物证
+派生：**exhibition** n. 展出
+近义：display v. 展出；show v. 给… 看
+2. **embrace** /ɪmˈbreɪs/
+v. ①拥抱；②包括，包含；③欣然接受、乐意采纳（思想、建议等）；信奉（宗教、信仰等）
+搭配：embrace democracy 信奉民主
+近义：hug v./n. 拥抱
+3. **ecosystem** /ˈiːkəʊˌsɪstəm/
+n. 生态系统
+派生：ecology n. 生态学 → ecological adj. 生态学的；eco-friendly adj. 环保的
+例句：We embrace a healthy ecosystem. 我们拥护健康的生态系统。
+4. **effectively** /ɪˈfektɪvli/
+adv. 实际上；有效地；事实上
+搭配：effectively control 有效控制
+派生：effect n. 影响；effective adj. 有效的
+近义：practically adv. 实际上；efficiently adv. 高效地
+5. **economy** /ɪˈkɒnəmi/
+n. ①经济；②（就经济体制而言）国家，经济制度；③节约，节省
+搭配：the world economy 世界经济；market economy 市场经济
+派生：economic adj. 经济的；economical adj. 节俭的；economist n. 经济学家
+6. **elite** /ɪˈliːt/
+n. ①（社会）上层集团；②社会精英
+adj. ①上层集团的；②精英的
+搭配：intellectual elite 知识精英；elite group 精英集团
+7. **employer** /ɪmˈplɔɪə(r)/
+n. 雇主，老板
+搭配：previous employer 原就职单位；prospective employer 潜在雇主
+派生：employ v. 雇佣；employee n. 受雇者；employment n. 就业，职业
+拓展：interviewer 采访者 / 面试官；interviewee 被采访者
+近义：boss n. 老板
+8. **environmental** /ɪnˌvaɪrənˈmentl/
+adj. 自然环境的，有关环境的
+搭配：environmental pollution /damage 环境污染 / 环境破坏
+派生：environment n. 环境；environmentally adv. 环保地
+
+
 
