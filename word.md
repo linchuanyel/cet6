@@ -100,8 +100,8 @@ v. 把…… 抽象出，提取
 ### 14. apparently /əˈpærəntli/ adv.
 
 显然，可见，看来
-👉形容词：apparent adj. 显而易见的
-👉近义词：
+形容词：apparent adj. 显而易见的
+近义词：
 seemingly adv. 看似，看起来
 evidently adv. 明显地
 👉句型：It seems that…（原句 It is seemed that 是错误表达）
